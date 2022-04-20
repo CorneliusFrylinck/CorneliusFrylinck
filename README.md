@@ -7,7 +7,7 @@
   - Desktop: WPF
   - ERP: SYSPRO with VBScript
   - Git: GIthub for personal, Azure Devops for work
-  - Hosting: Netlify for personal (used Azure Cloud for two projects but it became to expensive) and IIS for work
+  - Hosting: Netlify for personal (used Azure Cloud for two projects but it became too expensive) and IIS for work
 - 📫 How to reach me corneliusfrylinck@zohomail.com
 
 <!---
