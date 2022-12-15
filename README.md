@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @CorneliusFrylinck
 - 👀 I’m interested in Web, Software and Mobile Development
 - My stack:
-  - Backend: ASP.NET (Core for personal projects and Framework for work)
+  - Backend: ASP.NET Core
   - Frontend: React
   - Git: GIthub for personal, Azure Devops for work
-  - Hosting: Netlify or Heroku for personal (used Azure for two projects but it became too expensive) and Azure for work
+  - Hosting: Netlify, Heroku or OnRender for personal (used Azure for two projects but it became too expensive) and Azure for work
 - 📫 How to reach me corneliusfrylinck@zohomail.com
 
 <!---
