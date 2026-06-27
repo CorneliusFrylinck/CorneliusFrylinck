@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @CorneliusFrylinck
-- 👀 I’m interested in Web, Software and Mobile Development
+- 👀 I’m interested in Software Development and busy deep-diving into the world of Software Architecture to learn more, because for the last few years I've been working directly under a Solutions Architect and then a former Principal Software Developer turned CTO. I've learned a lot from them but the best I've gained is finding out what my next few steps are.
 - My stack:
-  - Backend: ASP.NET Core
-  - Frontend: React
+  - Backend: ASP.NET Core, NodeJs/Express, Django/DRF
+  - Frontend: React, Angular
   - Git: GIthub for personal, Azure Devops for work
-  - Hosting: Netlify, Heroku or OnRender for personal (used Azure for two projects but it became too expensive) and Azure for work
+  - Hosting: Netlify, Heroku or OnRender for personal and Azure / AWS for work
 - 📫 How to reach me corneliusfrylinck@zohomail.com
 
 <!---
